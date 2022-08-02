@@ -2,13 +2,13 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![resim](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png)
+![resim](https://github.com/GurbuzEmree/kodluyoruzilkrepo/blob/main/patika.png)
 
 # Installation
 
-Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın.
 ```
-git.clone https://github.com/yavuzaky/kodluyoruzilkrepo.git
+git.clone https://github.com/GurbuzEmree/kodluyoruzilkrepo.git
 ```
 
 # Usage
@@ -29,3 +29,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 # License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+[Patika.dev](https://www.patika.dev)
